@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
-  
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/estilos.css">
   <title>Document</title>
 </head>
 
@@ -15,13 +15,13 @@
 
   <header>
     <nav>
-      <a href="#"> <img src="" alt="" id="logo"> logo </a>
-      <ul>
-        <li> <a href="#"> Home </a> </li>
-        <li> <a href="#"> ¿Quién soy? </a> </li>
-        <li> <a href="#"> Portfolio </a> </li>
-        <li> <a href="#"> Tecnologias </a> </li>
-        <li> <a href="#"> Contacto </a> </li>
+      <a href="#" class="logo"> <img src="" alt="" id="logo"> logo </a>
+      <ul class="nav-menu">
+        <li class="nav-menu-item"> <a href="#"> Home </a> </li>
+        <li class="nav-menu-item"> <a href="#"> ¿Quién soy? </a> </li>
+        <li class="nav-menu-item"> <a href="#"> Portfolio </a> </li>
+        <li class="nav-menu-item"> <a href="#"> Tecnologias </a> </li>
+        <li class="nav-menu-item"> <a href="#"> Contacto </a> </li>
       </ul>
     </nav>
   </header>
